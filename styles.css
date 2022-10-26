@@ -1,0 +1,96 @@
+body{
+  font-family: 'Merriweather', serif;
+  margin:0;
+  text-align:center;
+
+}
+hr{
+border-style: dotted;
+border-color: #DDDDDD;
+border-bottom:none;
+border-width: 6px;
+width: 4%;
+margin:100px auto;
+}
+h1{
+  color:#5AA469;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  line-height: 1;
+  margin:50px  auto 0 auto;
+}
+h2{
+  color:#5AA469;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+.top-section{
+  background-color: #CEE5D0;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-section{
+margin: 100px  0;
+}
+.foot-section{
+background-color: #CEE5D0;
+padding: 50px 0 20px;
+}
+.top-cloud{
+  position:absolute;
+  right:300px;
+  top:50px;
+}
+.bottom-cloud{
+  position:absolute;
+  left:300px;
+  bottom:300px;
+}
+.skill-row{
+  margin:100px auto 100px auto;
+  width:50%;
+  text-align:left;
+}
+.intro{
+  width:30%;
+  margin:auto;
+}
+.code-img{
+  width:25%;
+  float:left;
+  margin-right: 30px;
+}
+.fashion-img{
+    width:25%;
+    float:right;
+    margin-left: 30px;
+}
+P{
+  line-height:2;
+}
+.contact-me{
+  width:40%;
+  margin:40px auto 60px;
+}
+.btn{
+
+}
+a{
+  color:#5AA469;
+  font-family: 'Montserrat', sans-serif;
+  margin: 20px 10px;
+  text-decoration: none;
+}
+a:hover{
+  color:white;
+}
+.copyright{
+  font-size: 0.75rem;
+  padding: 20px 0;
+    color:black;
+}
